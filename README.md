@@ -14,3 +14,11 @@ rain chances and wind information.
 - Once the user clicks on a bookmarked city a screen will appear. This screen displays today’s
 forecast of that city, including: temperature, humidity, rain chances and wind information.
 
+#Features
+
+Swift 4
+MVC 
+Core Location
+Core Data
+Alamofire
+SwiftyJson
