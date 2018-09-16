@@ -16,9 +16,9 @@ forecast of that city, including: temperature, humidity, rain chances and wind i
 
 #Features
 
-Swift 4
-MVC 
-Core Location
-Core Data
-Alamofire
-SwiftyJson
+● Swift 4
+● MVC 
+● Core Location
+● Core Data
+● Alamofire
+● SwiftyJson
